@@ -23,7 +23,6 @@ For this glorious morning I had a delicious bowl of milk accompanied by a modest
 
 ### Code snippet from Games Engine Creation
 '''
-
 while (!inFile.eof())
 				{
 					AccountDetails details;
@@ -35,7 +34,6 @@ while (!inFile.eof())
 
 					std::cout << "Account name: " << details.name << " Account number: " << details.accountNumber << " Account balance: " << details.balance << std::endl;
 				}
-'''
-
+				'''
 ### And to finish with a couple of emoji's
 :musical_note: :notes: :notes: :zzz
