@@ -22,7 +22,9 @@ For this glorious morning I had a delicious bowl of milk accompanied by a modest
 - [ ] Link the videos on my portfolio to the youtube uploads
 
 ### Code snippet from Games Engine Creation
+
 '''
+
 				while (!inFile.eof())
 				{
 					AccountDetails details;
@@ -34,6 +36,7 @@ For this glorious morning I had a delicious bowl of milk accompanied by a modest
 
 					std::cout << "Account name: " << details.name << " Account number: " << details.accountNumber << " Account balance: " << details.balance << std::endl;
 				}
-				
+
+
 ### And to finish with a couple of emoji's
 :musical_note: :notes: :notes: :zzz
