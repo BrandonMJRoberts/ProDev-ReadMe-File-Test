@@ -22,7 +22,7 @@ For this glorious morning I had a delicious bowl of milk accompanied by a modest
 - [ ] Link the videos on my portfolio to the youtube uploads
 
 ### Code snippet from Games Engine Creation
-'''c++
+'''
 
 while (!inFile.eof())
 				{
