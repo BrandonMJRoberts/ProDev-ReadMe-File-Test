@@ -10,7 +10,7 @@ For this glorious morning I had a delicious bowl of milk accompanied by a modest
 ![Octocat](/Octocat.png)
 
 ### My favourate games:
-1. Btman Akham Aylum
+1. Batman Akham Aylum
 2. Super Mario Sunshine 
 3. Pokemon Alpha Sapphire
 4. Super Mario Galaxy
@@ -18,11 +18,12 @@ For this glorious morning I had a delicious bowl of milk accompanied by a modest
 
 ### Checklist of things to do for Pro Dev
 - [X] Decide on and edit a default html website layout
-- [] Record gameplay of games and upload them to youtube
-- [] Link the videos on my portfolio to the youtube uploads
+- [ ] Record gameplay of games and upload them to youtube
+- [ ] Link the videos on my portfolio to the youtube uploads
 
 ### Code snippet from Games Engine Creation
 '''c++
+
 while (!inFile.eof())
 				{
 					AccountDetails details;
